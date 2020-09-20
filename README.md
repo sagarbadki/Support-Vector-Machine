@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* Support vector machine (SVM) is supervised machine learning algorithm which can be used both for classification and regression problems. But generally, they are used in classification problems.
+* Support vector machine (SVM) is supervised machine learning algorithm which can be used both for classification and regression problems. But generally, it is used in classification problems.
 * In 1960s, SVMs were first introduced but later they got refined in 1990. SVMs have their unique way of implementation as compared to other machine learning algorithms. Lately, they are extremely popular because of their ability to handle multiple continuous and categorical variables.
 * An SVM model is basically a representation of different classes in a hyperplane in multidimensional space.
 * The hyperplane will be generated in an iterative manner by SVM so that the error can be minimized.
